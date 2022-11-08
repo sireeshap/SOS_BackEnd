@@ -32,7 +32,7 @@ CREATE TABLE `AppointmentSystemDB`.`DOCTORS_DATA` (
   PRIMARY KEY (`ID`));
 
 
-#Command-2
+# Command-2
 
 
 CREATE TABLE `appointmentsystemdb`.`PATIENT_DATA` (
