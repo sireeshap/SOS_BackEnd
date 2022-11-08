@@ -1,0 +1,3 @@
+const specializationIDSchema= {
+    name: String
+}
