@@ -10,7 +10,7 @@
 3. run below compand in workbench editor
 
 
-# Command-1
+#  Command-1
 CREATE TABLE `AppointmentSystemDB`.`DOCTORS_DATA` (
 
   `ID` INT NOT NULL,
@@ -32,7 +32,7 @@ CREATE TABLE `AppointmentSystemDB`.`DOCTORS_DATA` (
   PRIMARY KEY (`ID`));
 
 
-# Command-2
+#  Command-2
 
 
 CREATE TABLE `appointmentsystemdb`.`PATIENT_DATA` (
@@ -50,7 +50,7 @@ CREATE TABLE `appointmentsystemdb`.`PATIENT_DATA` (
   PRIMARY KEY (`PATIENT_ID`));
 
 
-# Command-3
+#  Command-3
 
 
 CREATE TABLE `AppointmentSystemDB`.`APPOINTMENT_DATA` (
@@ -68,7 +68,7 @@ CREATE TABLE `AppointmentSystemDB`.`APPOINTMENT_DATA` (
   PRIMARY KEY (`APPOINTMENT_ID`));
 
 
-# Command-4
+#  Command-4
 
 
 CREATE TABLE `appointmentsystemdb`.`SPECIALIZATION_DATA` (
